@@ -1,0 +1,12 @@
+{
+  "Lua.diagnostics.globals": [
+    "love",
+    "puts",
+    "round",
+    "new_animation",
+    "anim8"
+  ],
+  "Lua.diagnostics.disable": [
+    "undefined-global"
+  ]
+}
