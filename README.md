@@ -1,5 +1,10 @@
 # Hunter Seeker
 
+This was going to be a framework for a 2D-Zelda like game written in [LÖVE](https://love2d.org/)
+but I decided to pursue some other projects.
+
+It may not run, but an exmaple below video will show what all has been made.
+
 ### Lua notes
 
 - [Simple Round](http://lua-users.org/wiki/SimpleRound)
@@ -24,7 +29,4 @@
 - [m6x11](https://managore.itch.io/m6x11)
 - [m5x7](https://managore.itch.io/m5x7)
 
-##### Random
-
-- Drawing vertically (duh)
-- Icy floor (velocity down & friction down)
+<video src="./example.mp4" />
